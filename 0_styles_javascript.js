@@ -1,0 +1,1 @@
+document.getElementsByTagName('h1')[0].onmouseout = function () {this.innertext = 'Active Heading'; this.style = 'Black'}
